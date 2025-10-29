@@ -1,4 +1,19 @@
+# 👋 Xin chào! Tôi là **Hồ Minh Trọng**
 
+🎓 Sinh viên năm 3 ngành **Hệ Thống Thông Tin (Information Systems)** tại **Đại học Công nghiệp TP.HCM (IUH)** — khóa 19.  
+💻 Tôi yêu thích **lập trình web** và thường xuyên thực hiện các dự án cá nhân với **HTML, CSS, JavaScript, jQuery**, và **Python**.  
+💡 Ngoài ra **phân tích dữ liệu**, **phát triển web**, và **trí tuệ nhân tạo (AI)** là lĩnh vực tôi thích và đang rất quan tâm.
+🎯 Mục tiêu của mình là trở thành một **lập trình viên web giỏi**, có thể kết hợp công nghệ và sáng tạo để tạo ra sản phẩm hữu ích cho mọi người.
+
+---
+
+
+📊 Ngoài giờ học, tôi thường thực hiện các **dự án học tập và cá nhân** như:
+- Website bán điện thoại “**Phone Store**” sử dụng **HTML5, CSS3, Bootstrap, JavaScript**
+- Dự án **Phân tích & trực quan hóa dữ liệu** bằng **Python, Pandas, Power BI**
+- Các mô hình **Machine Learning**: Linear Regression, K-Means, PCA, Classification...
+
+---
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trongho900@gmail.com) 
 
