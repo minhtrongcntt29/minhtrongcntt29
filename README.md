@@ -1,10 +1,10 @@
 # 👋 Xin chào! Tôi là **Hồ Minh Trọng**
 
 🎓 Sinh viên năm 3 ngành **Hệ Thống Thông Tin (Information Systems)** tại **Đại học Công nghiệp TP.HCM (IUH)** — khóa 19.  
-- 🔹 Phân tích và thiết kế **hệ thống thông tin trong doanh nghiệp**  
-- 🔹 **Quản lý dữ liệu**, **cơ sở dữ liệu** và **hệ thống ERP**  
-- 🔹 **Lập trình ứng dụng web, mobile** và **tích hợp hệ thống**  
-- 🔹 **Phân tích nghiệp vụ**, **hỗ trợ ra quyết định**, và **ứng dụng AI – BI – Data Analytics** trong quản trị  
+  - 🔹 Phân tích và thiết kế **hệ thống thông tin trong doanh nghiệp**  
+  - 🔹 **Quản lý dữ liệu**, **cơ sở dữ liệu** và **hệ thống ERP**  
+  - 🔹 **Lập trình ứng dụng web, mobile** và **tích hợp hệ thống**  
+  - 🔹 **Phân tích nghiệp vụ**, **hỗ trợ ra quyết định**, và **ứng dụng AI – BI – Data Analytics** trong quản trị  
 
 
 🎯 Mục tiêu đào tạo của ngành là giúp sinh viên **xây dựng, vận hành và cải tiến hệ thống thông tin** hỗ trợ hoạt động của tổ chức/doanh nghiệp — trở thành cầu nối giữa **CNTT và quản trị kinh doanh**.
